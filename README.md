@@ -1,7 +1,6 @@
 # Buscar CEP
 
 ## Uma biblioteca para encontrar endereços pelo CEP
----------------------------------------------------
 
 ### Como instalar
 ---------------------------------------------------
